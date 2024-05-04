@@ -1,6 +1,3 @@
-# I'm done.
-This game is not worth my time anymore, it's dead. I'm fucking done, i hope you all die.
-
 # Candy
 
 A lightweight CPS API for Spigot 1.8.x
